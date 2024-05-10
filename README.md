@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
-
+<hl>
+  
 ###
 
 <h1 align="center">Olá mundo!👋</h1>
@@ -51,15 +52,20 @@
   <img width="12" />
 </div>
 
+
 ###
 
 <h3 align="left">🔥   Minhas Estatísticas :</h3>
 
-<img alt = "my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlvesTeixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="198" alt="stats graph" /> <br>
 
-<img alt = "top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+-----
 
- 
+<div style="overflow: auto;">
+    <img alt="my stats" style="float: left; width: 45%;" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlvesTeixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph" /> 
+    <img alt="top langs" style="float: left; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlvesTeixeira&layout=compact&theme=tokyonight"/>
+    <div style="clear: both;"></div>
+</div>
+
 
 
 
