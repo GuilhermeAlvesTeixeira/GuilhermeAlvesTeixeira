@@ -41,16 +41,31 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" height="40" alt="Spring boot logo" />
   <img width="12" />
-
-
- 
-
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/600px-Processing_2021_logo.svg.png" height="40" alt="processing logo"/>
   <img width="12" />
 </div>
+
+<h3 align="left">🖥️ IDEs utilizadas</h3>
+
+<div align="left">
+  <img src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png" height="40" alt="Eclipse logo"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/640px-Apache_NetBeans_Logo.svg.png" height="40" alt="Netbeans logo"/>
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" height="40" alt="MySQL Workbench logo"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" height="40" alt="Pycharm logo"/>
+  <img width="12" />
+</div>
+
+
+
+
+
+
+###
 
 
 ###
