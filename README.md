@@ -5,8 +5,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href = "https://www.linkedin.com/in/guilherme-alves-597b24225/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href = "https://www.instagram.com/guilhermeatsilva/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    </a>
 </div>
 <hl>
   
@@ -20,7 +24,7 @@
 
 ###
 
-<p align="left">Olá a todos! 👋<br>eu me chamo Guilherme Alves. Sou novo aqui no GitHub <br><br>- 🔭 Estudo na Universidade Federal do Ceará no curso de Sistemas e Mídias Digitais.<br>- 📚 Atualmente estudando desenvolvimento Web utilizando, principalmente, linguagem Java.<br>- ⚡ No meu tempo livre, gosto de jogar jogos online e conversar com os amigos.</p>
+<p align="left">Olá a todos! 👋<br>eu me chamo Guilherme Alves. Sou novo aqui no GitHub <br><br>- 🔭 Estudo na Universidade Federal do Ceará no curso de Sistemas e Mídias Digitais.<br>- 📚 Atualmente estudando desenvolvimento Web voltado para Back-End e Front-End utilizando, principalmente, linguagem Java.<br>- ⚡ No meu tempo livre, gosto de jogar jogos online e conversar com os amigos.</p>
 
 ###
 
