@@ -55,10 +55,13 @@
 
 <h3 align="left">🔥   Minhas Estatísticas :</h3>
 
-<div align="r">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlvesTeixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="198" alt="stats graph" /> <br>
+<img alt = "my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlvesTeixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="198" alt="stats graph" /> <br>
+
+<img alt = "top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+
  
-</div>
+
+
 
 ###
 
