@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Olá a todos! 👋<br>eu me chamo Guilherme Alves. Sou novo aqui no GitHub <br><br>- 🔭 Estudo na Universidade Federal do Ceará no curso de Sistemas e Mídias Digitais.<br>- 📚 Estou estudando para me tornar um profissional em Visão Computacional.<br>- ⚡ No meu tempo livre, gosto de jogar jogos online e conversar com os amigos.</p>
+<p align="left">Olá a todos! 👋<br>eu me chamo Guilherme Alves. Sou novo aqui no GitHub <br><br>- 🔭 Estudo na Universidade Federal do Ceará no curso de Sistemas e Mídias Digitais.<br>- 📚 Atualmente estudando desenvolvimento Web utilizando, principalmente, linguagem Java.<br>- ⚡ No meu tempo livre, gosto de jogar jogos online e conversar com os amigos.</p>
 
 ###
 
@@ -30,13 +30,25 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"height="40" alt="Html logo" />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="40" alt="CSS logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="40" alt="MySQL icon" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" height="40" alt="Spring boot logo" />
+  <img width="12" />
+
+
+ 
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="40" alt="processing logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/600px-Processing_2021_logo.svg.png" height="40" alt="processing logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
 ###
