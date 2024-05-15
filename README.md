@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Olá a todos! 👋<br>eu me chamo Guilherme Alves. Sou novo aqui no GitHub <br><br>- 🔭 Estudo na Universidade Federal do Ceará no curso de Sistemas e Mídias Digitais.<br>- 📚 Atualmente estudando desenvolvimento Web voltado para Back-End e Front-End utilizando, principalmente, linguagem Java.<br>- ⚡ No meu tempo livre, gosto de jogar jogos online e conversar com os amigos.</p>
+<p align="left">Olá a todos! 👋<br>eu me chamo Guilherme Alves. Sou novo aqui no GitHub <br><br>- 🔭 Estudo na Universidade Federal do Ceará no curso de Sistemas e Mídias Digitais.<br>- 📚 Atualmente estudando desenvolvimento Web voltado para Back-End e Front-End utilizando, principalmente, linguagem Java.<br>- ⚡ No meu tempo livre, gosto de jogar jogos online .</p>
 
 ###
 
@@ -44,12 +44,18 @@
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" height="40" alt="MySQL icon" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Apache_Tomcat_logo.svg" height="40" alt="tomcat logo"/>
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/512px-Spring_Boot.svg.png" height="40" alt="Spring boot logo" />
   <img width="12" />
+  <img src="https://www.shareicon.net/data/128x128/2015/09/16/101872_debian_512x512.png" height="40" alt="debian logo" />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/600px-Processing_2021_logo.svg.png" height="40" alt="processing logo"/>
   <img width="12" />
+  
 </div>
 
 <h3 align="left">🖥️ IDEs utilizadas</h3>
