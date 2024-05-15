@@ -87,11 +87,10 @@
 -----
 
 <div style="overflow: auto;">
-    <img alt="my stats" style="float: left; width: 47%;" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlvesTeixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" alt="stats graph" /> 
+    <img alt="my stats" style="float: left; width: 47%;" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlvesTeixeira&show_icons=true&theme=tokyonight&locale=en&hide_border=false" alt="stats graph" />
     <img alt="top langs" style="float: left; width: 36%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlvesTeixeira&layout=compact&theme=tokyonight"/>
     <div style="clear: both;"></div>
 </div>
-
 
 
 
