@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">Olá a todos! 👋<br>eu me chamo Guilherme Alves. Sou novo aqui no GitHub <br><br>- 🔭 Estudo na Universidade Federal do Ceará no curso de Sistemas e Mídias Digitais.<br>- 📚 Atualmente estudando desenvolvimento Web voltado para Back-End e Front-End utilizando, principalmente, linguagem Java.<br>- ⚡ No meu tempo livre, gosto de jogar jogos online .</p>
+<p align="left">Olá a todos! 👋<br>eu me chamo Guilherme Alves. Sou novo aqui no GitHub <br><br>- 🔭 Estudo na Universidade Federal do Ceará no curso de Sistemas e Mídias Digitais.<br>- 📚 Atualmente estudando desenvolvimento Web voltado para Back-End e Front-End. <br>- ⚡ No meu tempo livre, gosto de jogar jogos online .</p>
 
 ###
 
