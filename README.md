@@ -36,6 +36,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_logo_icon_146509.png" height="40" alt="git logo" />
+  <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png"height="40" alt="Html logo" />
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/128/732/732190.png" height="40" alt="CSS logo" />
@@ -50,9 +52,6 @@
   <img width="12" />
   <img src="https://www.shareicon.net/data/128x128/2015/09/16/101872_debian_512x512.png" height="40" alt="debian logo" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/600px-Processing_2021_logo.svg.png" height="40" alt="processing logo"/>
   <img width="12" />
   
@@ -63,11 +62,11 @@
 <div align="left">
   <img src="https://static-00.iconduck.com/assets.00/eclipse-icon-512x479-6ivkqawb.png" height="40" alt="Eclipse logo"/>
   <img width="12" />
+  <img src="https://spring.io/img/projects/spring-tool.svg" height="40" alt="SpringToolSuite4 logo"/>
+  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/640px-Apache_NetBeans_Logo.svg.png" height="40" alt="Netbeans logo"/>
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" height="40" alt="MySQL Workbench logo"/>
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" height="40" alt="Pycharm logo"/>
   <img width="12" />
 </div>
 
