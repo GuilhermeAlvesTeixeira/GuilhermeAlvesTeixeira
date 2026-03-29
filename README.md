@@ -79,16 +79,17 @@ Outside of code, I enjoy online games and diving deep into retro gaming history.
 ## My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeAlvesTeixeira&show_icons=true&theme=tokyonight&locale=en&hide_border=false&count_private=true" height="170" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=GuilhermeAlvesTeixeira&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAlvesTeixeira&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="170" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuilhermeAlvesTeixeira&layout=compact&theme=tokyonight" />
 </div>
 
 <br>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeAlvesTeixeira&theme=tokyonight&hide_border=false" height="170" alt="Streak Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeAlvesTeixeira&theme=tokyonight&hide_border=false" />
 </div>
+
+<br>
 
 ---
 
