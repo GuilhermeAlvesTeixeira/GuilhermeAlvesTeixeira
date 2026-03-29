@@ -1,8 +1,10 @@
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://64.media.tumblr.com/tumblr_m4h8sgsFkD1qav3uso8_r1_640.gifv" height="240" />
-  <img src="https://64.media.tumblr.com/tumblr_m4h8sgsFkD1qav3uso2_r1_1280.gifv" height="240" />
-  <img src="https://64.media.tumblr.com/tumblr_m4h4x6o4dZ1qav3uso1_540.gifv" height="240" />
-</div>
+<table style="border: none; border-collapse: collapse; display: table; width: max-content;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;"><img src="https://64.media.tumblr.com/tumblr_m4h8sgsFkD1qav3uso8_r1_640.gifv" height="250" /></td>
+    <td style="border: none; padding: 5px;"><img src="https://64.media.tumblr.com/tumblr_m4h8sgsFkD1qav3uso2_r1_1280.gifv" height="250" /></td>
+    <td style="border: none; padding: 5px;"><img src="https://64.media.tumblr.com/tumblr_m4h4x6o4dZ1qav3uso1_540.gifv" height="250" /></td>
+  </tr>
+</table>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-alves-597b24225/" target="_blank">
