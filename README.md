@@ -1,5 +1,7 @@
-<div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://64.media.tumblr.com/tumblr_m4h8sgsFkD1qav3uso8_r1_640.gifv" height="240" />
+  <img src="https://64.media.tumblr.com/tumblr_m4h8sgsFkD1qav3uso2_r1_1280.gifv" height="240" />
+  <img src="https://64.media.tumblr.com/tumblr_m4h4x6o4dZ1qav3uso1_540.gifv" height="240" />
 </div>
 
 <div align="center">
