@@ -31,8 +31,7 @@ I'm a developer with a deep passion for **computer graphics**, **digital image p
 
 I'm especially captivated by **games from the 90s**: titles like *Doom*, *Quake*, and *Wolfenstein 3D*. What pulled me into graphics programming was trying to understand how id Software managed to render a 3D world on hardware that, by today's standards, had almost no power at all. The ray-casting engine behind *Wolfenstein 3D* is a brilliant example of that — projecting a 2D map into a pseudo-3D perspective entirely in software, with no GPU involved. That kind of ingenuity is what I want to understand and eventually build upon.
 
-This curiosity led me into low-level graphics programming — learning **OpenGL**, **SFML**, and **SDL** to start building things from scratch, the same way those pioneers did.
-
+This curiosity led me into low-level graphics programming — learning **Vulkan**, **OpenGL**, **SFML**, **SDL** to start building things from scratch
 Outside of code, I enjoy online games and diving deep into retro gaming history.
 
 ---
@@ -44,6 +43,9 @@ Outside of code, I enjoy online games and diving deep into retro gaming history.
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/SFML_Logo.svg" height="40" style="vertical-align: middle; margin-left: 8px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="35" style="vertical-align: middle; margin-left: 8px;" />
     <img src="https://www.libsdl.org/media/SDL_logo.png" height="35" style="vertical-align: middle; margin-left: 6px;" />
+  <img src="https://github.com/user-attachments/assets/a4b77311-ad90-45f3-b2e8-2b0a97822606" height="35" style="vertical-align: middle; margin-left: 6px;" />
+  
+  
 </div>
 
 ---
@@ -72,11 +74,15 @@ Outside of code, I enjoy online games and diving deep into retro gaming history.
   <img src="https://img.shields.io/badge/SDL2-1C4B73?style=for-the-badge&logoColor=white" height="28" />
   &nbsp;
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white&logoSize=auto" />
+
+
 </div>
 
 <br>
 
-> Building a solid foundation in low-level graphics and multimedia programming — the same way classic game developers had to.
+> Building a solid foundation in low-level graphics and multimedia programming
+
 
 ---
 
